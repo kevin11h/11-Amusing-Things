@@ -13,13 +13,13 @@
 
 Open Source Old School Classics Erudition
 
-# (Trivium)[https://en.wikipedia.org/wiki/Trivium]
+# [Trivium](https://en.wikipedia.org/wiki/Trivium)
 1. Grammar
 2. Logic
 3. Rhetoric
 
 
-# (Quadrivium)[https://en.wikipedia.org/wiki/Quadrivium
+# [Quadrivium](https://en.wikipedia.org/wiki/Quadrivium)
 ]
 1.  Arithmetic
 2.  Geometry
